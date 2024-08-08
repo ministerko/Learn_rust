@@ -1,0 +1,26 @@
+# Ignore build artifacts and dependencies
+/target
+**/*.rs.bk
+
+# Ignore generated files by the Rust package manager, Cargo
+Cargo.lock
+Cargo.toml.bk
+
+# Ignore the node_modules directory
+node_modules
+
+# Ignore .env files
+.env
+
+# By default, ignore the target directory
+# Uncomment the following line to include it
+# !/target/debug/
+# !/target/release/
+
+# VS Code specific ignores
+.vscode
+*.code-workspace
+
+# IntelliJ IDEA specific ignores
+.idea
+*.iml
