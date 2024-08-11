@@ -26,7 +26,7 @@ Rust has four primary scalar types:
 128-bit	i128	u128
 arch	isize	usize
 ```
-![check this->](./interger.rs)
+![check codes->](./interger.rs)
 
 You can write integer literals in any of the forms shown in Table
 
@@ -40,10 +40,30 @@ Octal	           0o77
 Binary	         0b1111_0000
 Byte (u8 only)	 b'A'
 ```
-![interger overflow](https://medium.com/@mikecode/rust-integer-overflow-69277aad3ff5)
+[interger overflow](https://medium.com/@mikecode/rust-integer-overflow-69277aad3ff5)
 
 ## floting-Point Types
 
 Rust floting-point types are **f32**
 and **f64**
 
+![check codes->](./floating_point.rs)
+
+## Numeric Operations
+Rust supports the basic mathematical operations you’d expect for all the number types,those operations are 
+
+//addition
+- sum (+)
+
+//subtraction
+- difference (-)
+
+//multiplication
+- product (*)
+
+//division
+- quotient
+- truncated
+
+//remainder
+- remainder (%)
