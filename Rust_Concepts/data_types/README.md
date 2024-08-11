@@ -67,3 +67,11 @@ Rust supports the basic mathematical operations you’d expect for all the numbe
 
 //remainder
 - remainder (%)
+  
+![check codes->](./numeric_operation.rs)
+
+
+## Boolean Type
+a Boolean type in Rust has two possible values: **true** and **false.** Booleans are one byte in size. The Boolean type in Rust is specified using bool
+
+![check codes->](./boolean_type.rs)
