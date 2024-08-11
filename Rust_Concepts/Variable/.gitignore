@@ -1,0 +1,9 @@
+/target/*
+/target/debug/*
+Cargo.lock
+*
+!*/
+!*.rs
+!*.md
+!*.toml
+!*.gitignore
