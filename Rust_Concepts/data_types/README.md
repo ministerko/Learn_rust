@@ -40,3 +40,10 @@ Octal	           0o77
 Binary	         0b1111_0000
 Byte (u8 only)	 b'A'
 ```
+![interger overflow](https://medium.com/@mikecode/rust-integer-overflow-69277aad3ff5)
+
+## floting-Point Types
+
+Rust floting-point types are **f32**
+and **f64**
+
