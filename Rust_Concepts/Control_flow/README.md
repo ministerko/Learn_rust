@@ -138,8 +138,8 @@ fn main(){
 
 here are cools stuff to complete this chapter
 
-- Convert temperatures between Fahrenheit and Celsius. ![see them here](/Rust_Projects/temp_convert/src/main.rs)
-- Generate the nth Fibonacci number.
+- Convert temperatures between Fahrenheit and Celsius. ![see codes here](/Rust_Projects/temp_convert/src/main.rs)
+- Generate the nth Fibonacci number.![see codes here](/Rust_Projects/fibonacci/src/main.rs)
 - Print the lyrics to the Christmas carol “The Twelve Days of Christmas,” taking advantage of the repetition in the song
 
 
