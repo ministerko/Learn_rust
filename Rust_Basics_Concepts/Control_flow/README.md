@@ -143,6 +143,6 @@ here are cools stuff to complete this chapter
 - Print the lyrics to the Christmas carol “The Twelve Days of Christmas,” taking advantage of the repetition in the song ![see codes here](/Rust_Projects/twelve_days_of_chrismas/src/main.rs)
 
 
-
+if all done jump to ![Ownership](/Main_Concepts/Ownership/)
 
 
