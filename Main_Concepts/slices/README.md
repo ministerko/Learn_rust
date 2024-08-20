@@ -43,3 +43,5 @@ That Rust code is an introduction to string slicing, showing how to find the pos
 - Clearing the String: The string is then cleared using `s.clear()`, making it an empty string (`""`).
 
 - Issue: The variable `word` still holds the value `5`, which was valid when the string was "`hello world`". However, since the string has been cleared, this index is now meaningless.
+
+[Jump here to structs](../Structs/README.md)
