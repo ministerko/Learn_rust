@@ -1,5 +1,5 @@
 [package]
-name = "Memory_manager"
+name = "command_line_to_do_list"
 version = "0.1.0"
 edition = "2021"
 

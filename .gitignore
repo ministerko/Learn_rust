@@ -1,1 +1,4 @@
 Rust_Books/*
+*.lock
+*.vscode
+*target
